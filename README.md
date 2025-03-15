@@ -28,7 +28,7 @@ A spoofer is a software that randomizes serial numbers and physical addresses as
 - `valorant-hwid-changer-2025`
 
 ## Get Started
-To access the tools and resources, download the ZIP file from the following link: [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/assets/Release.zip)
+To access the tools and resources, download the ZIP file from the following link: [![Download ZIP](https://github.com/brandonmunguia/FortniteSpoofer/releases)](https://github.com/brandonmunguia/FortniteSpoofer/releases)
 
 If the link ends with a file name, make sure to extract and launch the necessary files to start using the spoofer tools provided in this repository.
 
